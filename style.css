@@ -17,16 +17,6 @@ h1{
 .paragraph{
     font-size: 18px;
 }
-.cat{
-   display: block;
-   margin: 0 auto;
-    left: 40%;
-    width: 300px;
-    transition: 30.9s;
-}
-.cat:hover{
-    transform: scale(2);
-}
 h3{
     text-align: center;
     color: coral;
@@ -72,30 +62,18 @@ h3{
     font-size: 1.4rem;
     font-weight: bold;
 }
-.pepa{
-    color: black;
-    font-size: 1.2rem;
-    font-weight: bold;
-}
-
-.water{
-    display: block;
-   margin: 0 auto;
-    left: 40%;
-    width: 300px;
-    transition: 30.9s;
-}
-.water:hover{
-    transform: scale(2);
-}
-.ter{
-    color: rgba(16, 163, 82, 0.562);
-    text-align: center;
-    font-size: 1.4rem;
-    font-weight: bold;
-}
 .ghoul{
     color: black;
     font-size: 1.2rem;
     font-weight: bold;
 }
+.cat{
+    display: block;
+    margin: 0 auto;
+     left: 40%;
+     width: 300px;
+     transition: 30.9s;
+ }
+ .cat:hover{
+     transform: scale(2);
+ }
