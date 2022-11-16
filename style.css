@@ -76,4 +76,10 @@ h3{
  }
  .cat:hover{
      transform: scale(2);
- }
+}
+.POPOV{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
